@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tea-hkim
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning basic IT skills.
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
 <!---
