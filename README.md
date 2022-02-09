@@ -1,8 +1,8 @@
 # 김태호 *KIM TAE HO*
 
-👨🏻‍💻FE Dveloper<br>
-👨🏻‍⚕️Registerd Nurse(2019.02.14 ~ )<br>
-👨🏻‍🎓 Hallym Univ. Department of Nursing
+### 👨🏻‍💻FE Dveloper<br>
+### 👨🏻‍⚕️Registerd Nurse(2019.02.14 ~ )<br>
+### 👨🏻‍🎓 Hallym Univ. Department of Nursing
 
 #### Currently, I am interested in IT and am studying.
 ---
