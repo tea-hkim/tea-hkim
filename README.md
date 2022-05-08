@@ -6,6 +6,6 @@
 
 #### Currently, I am interested in IT and am studying.
 ---
-- 👀 I’m interested in Front-end, UI, UX and marketing.
-- 🌱 I’m currently learning basic IT skills (React, Javascript) and Data Science(Python).
+- 👀 I’m interested in iOS, UI, UX and marketing.
+- 🌱 I’m currently learning basic IT skills (Swift, SwiftUI), Design and Product Management.
 - 📫 How to reach me <cnt.taehokim@gmail.com>
