@@ -6,7 +6,7 @@
 - (Apr. 2022 - Dec. 2022) **Apple Developer Academy @POSTECH**
 - (Mar. 2015 - Feb. 2019) **Hallym Univ. Department of Nursing**
 
-#### Currently, I am interested in iOS and am studying.
+#### Currently, I am interested in Combine and am studying.
 ---
 - 👀 I’m interested in iOS, UI, UX and marketing.
 - 🌱 I’m currently learning basic IT skills (Swift, SwiftUI), Design and Product Management.
