@@ -1,6 +1,6 @@
 # 김태호 *KIM TAE HO*
 
-### 👨🏻‍💻iOS Developer<br>
+<!-- ### 👨🏻‍💻iOS Developer<br> -->
 ### 👨🏻‍⚕️Registerd Nurse(2019.02.14 ~ )<br>
 ### 👨🏻‍🎓 Education
 - (Apr. 2022 - Dec. 2022) **Apple Developer Academy @POSTECH**
