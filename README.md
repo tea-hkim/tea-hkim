@@ -11,3 +11,7 @@
 - 👀 I’m interested in iOS, UI, UX and marketing.
 - 🌱 I’m currently learning basic IT skills (Swift, SwiftUI), Design and Product Management.
 - 📫 How to reach me <cnt.taehokim@gmail.com>
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftea-hkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
